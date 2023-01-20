@@ -1,9 +1,9 @@
 {
-  "greeting": "Hiya",
-  "name": "Nikhil",
+  "greeting": "Hello",
+  "name": "Laado!",
   "greetingText": "Wishing you all the superb things in life.",
-  "wishText": "May the stars always be with you! ;)",
-  "imagePath": "img/nikhil.png",
+  "wishText": "BHAAIIISSS ;)",
+  "imagePath": "img/laado.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
